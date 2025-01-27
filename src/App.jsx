@@ -1,9 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Car from './pages/car';
+import Car from './pages/Car';
 import Navbar from './components/NavBar ';
 import Phoenix from './components/Phoenix';
-// import Tiger from './components/Tiger';
 import CCTV from './components/CCTV';
 import Dragon from './components/Dragon';
 
